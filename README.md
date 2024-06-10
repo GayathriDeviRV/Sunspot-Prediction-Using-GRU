@@ -7,7 +7,7 @@ The dataset consists of daily sunspot counts gathered from the World Data Center
 For this project, the dataset was preprocessed to include only the columns needed for forcasting, the date, and the average sunspot number, resulting in 2092 non-null records.
 
 ## Project Objectives
-- Data Exploration and Visualization: started by exploring the dataset, visualizing the temporal patterns of sunspot activity, and identifying any underlying trends or anomalies.
+- Data Exploration and Visualization: Started by exploring the dataset, visualizing the temporal patterns of sunspot activity, and identifying any underlying trends or anomalies.
 
 - Data Preparation: The dataset is preprocessed and formatted to facilitate training neural networks. Segmented the time series data into windows, preparing it for input into the GRU and Conv1D layers.
 
