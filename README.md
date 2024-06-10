@@ -17,6 +17,6 @@ For this project, the dataset was preprocessed to include only the columns neede
 
 - Model Training and Evaluation: The neural network model is trained on the preprocessed data, and its performance is evaluated using standard metrics such as Mean Absolute Error (MAE) on a validation dataset.
 
-## Results
+## Result
 The model's performance is visualized through plots of MAE and loss over epochs, as well as a comparison between the predicted and actual sunspot numbers. The MAE on the validation data provides a quantitative measure of the model's prediction accuracy.
 
